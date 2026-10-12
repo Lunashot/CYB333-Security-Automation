@@ -1,0 +1,26 @@
+# Generated audit reports
+reports/*.json
+!reports/.gitkeep
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Virtual environments and local settings
+.venv/
+venv/
+.env
+.env.*
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+
+# Credentials and keys must never be committed
+*.pem
+*.key
+credentials.json
+

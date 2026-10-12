@@ -1,0 +1,8 @@
+{
+  "rack_name": "SIM-RACK-202",
+  "software_version": "3.1.0",
+  "logging_enabled": false,
+  "default_accounts_enabled": true,
+  "remote_access": "unrestricted"
+}
+

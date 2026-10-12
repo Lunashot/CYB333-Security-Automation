@@ -1,0 +1,8 @@
+{
+  "rack_name": "SIM-RACK-404",
+  "software_version": 321,
+  "logging_enabled": "yes",
+  "default_accounts_enabled": "no",
+  "remote_access": true
+}
+

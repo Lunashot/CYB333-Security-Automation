@@ -1,0 +1,11 @@
+{
+  "baseline_name": "Fictional Test Rack Security Baseline",
+  "description": "Sample values for a CYB333 security automation project.",
+  "required_settings": {
+    "software_version": "3.2.1",
+    "logging_enabled": true,
+    "default_accounts_enabled": false,
+    "remote_access": "restricted"
+  }
+}
+
